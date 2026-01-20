@@ -1,0 +1,5 @@
+
+{
+  "name": "IP-Track Demo: Device Access Monitor",
+  "description": "A beginner-friendly device tracking system that uses IP-based geolocation to log visitor access data, featuring real-time IP lookup and a persistent data table."
+}
